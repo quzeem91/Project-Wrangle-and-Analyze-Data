@@ -23,7 +23,7 @@ For this project three  Dataset were used whilst being provided with two(a csv f
     3. Querying Twitter's API and writing the Data to a .txt file.
     
     
-    ### Insights:
+   ### Insights:
 1. The Top dog breeds posted on WeRateDogs are the; <br>
     a. **labrador retriever** <br>
     b. **French Bulldog** <br>
