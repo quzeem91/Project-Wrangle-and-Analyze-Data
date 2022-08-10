@@ -38,5 +38,5 @@ For this project three  Dataset were used whilst being provided with two(a csv f
 ## Reports
 project consist of two reports :
 
-1. Wrangle-report: briefly describes your wrangling efforts.framed as an internal document.
-2. Wrangle-act: communicates all the insights and displays the visualization(s) produced from the wrangled data. This was framed as an external document, like a blog post or magazine article,
+1. Wrangle-report: describes my  wrangling efforts in details.framed as an internal document.
+2. Wrangle-act: This communicates all the insights and displays the visualization(s) produced from the wrangled data. This was framed as an external document, like a blog post or magazine article,
